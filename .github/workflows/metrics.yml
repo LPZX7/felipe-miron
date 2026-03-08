@@ -1,0 +1,40 @@
+name: Métricas do GitHub
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  github-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Estatísticas gerais
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: LPZX7
+          filename: github-stats.svg
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+          config_display: large
+          config_output: svg
+          output_action: commit
+
+      - name: Principais linguagens
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: LPZX7
+          filename: top-langs.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          config_timezone: America/Sao_Paulo
+          config_output: svg
+          output_action: commit
