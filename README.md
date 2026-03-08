@@ -1,31 +1,33 @@
 <h1 align="center">Felipe Miron</h1>
 
 <p align="center">
-  Desenvolvedor em evolução • Analista de Sistemas • Estudante de Engenharia de Software
+  <strong>Desenvolvedor em evolução</strong> • <strong>Analista de Sistemas</strong> • <strong>Estudante de Engenharia de Software</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+evolu%C3%A7%C3%A3o;Analista+de+Sistemas;Focado+em+Desenvolvimento+Web+e+Banco+de+Dados;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+evolu%C3%A7%C3%A3o;Analista+de+Sistemas;Foco+em+Desenvolvimento+Web;Estudando+Banco+de+Dados+e+Arquitetura;Sempre+aprendendo+novas+tecnologias" alt="Typing SVG" />
 </p>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor em evolução, com foco em desenvolvimento web, banco de dados e criação de soluções tecnológicas.  
+Sou um desenvolvedor em evolução, com foco em desenvolvimento web, banco de dados e construção de soluções tecnológicas.  
 Atualmente estudo Engenharia de Software e sigo aprimorando meus conhecimentos em programação, modelagem de dados, arquitetura de sistemas e boas práticas de desenvolvimento.
 
+Tenho interesse em criar projetos cada vez mais profissionais, fortalecer minha base técnica e evoluir continuamente na área de tecnologia.
+
 ---
 
-## Tecnologias e ferramentas
+## 🚀 Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" alt="Tecnologias" />
 </p>
 
 ---
 
-## Certificações
+## 🎓 Certificações
 
 - Introdução a Banco de Dados Relacionais
 - Arquitetura de Banco de Dados
@@ -38,36 +40,54 @@ Atualmente estudo Engenharia de Software e sigo aprimorando meus conhecimentos e
 
 ---
 
-## Estatísticas do GitHub
+## 📚 Áreas de estudo
+
+- Desenvolvimento Web
+- Banco de Dados
+- Modelagem de Dados
+- Arquitetura de Sistemas
+- Lógica de Programação
+- Engenharia de Software
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LPZX7&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPZX7&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true" alt="Top Langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LPZX7&show_icons=true&theme=transparent&title_color=22D3EE&text_color=E5E7EB&icon_color=22D3EE&border_color=30363D" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPZX7&layout=compact&theme=transparent&title_color=22D3EE&text_color=E5E7EB&border_color=30363D" alt="Principais linguagens" />
 </p>
 
 ---
 
-## Sequência de contribuições
+## 🔥 Sequência de contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LPZX7&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=LPZX7&theme=transparent&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF&border=30363D" alt="GitHub Streak" />
 </p>
 
 ---
 
-## Objetivos atuais
+## 🎯 Objetivos atuais
 
 - Evoluir como desenvolvedor
-- Fortalecer minha base em lógica e programação
+- Criar projetos mais completos e profissionais
 - Aprimorar conhecimentos em banco de dados
-- Construir projetos cada vez mais profissionais
+- Fortalecer minha base em programação
+- Crescer na área de engenharia de software
 
 ---
 
-## Contato
+## 🌐 Perfil
 
 <p align="center">
   <a href="https://github.com/LPZX7">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-LPZX7-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Construindo conhecimento, desenvolvendo projetos e evoluindo um passo por vez.</em>
 </p>
