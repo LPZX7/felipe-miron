@@ -33,9 +33,9 @@ Desenvolvedor em evolução • Analista de Sistemas • Engenharia de Software
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LPZX7&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPZX7&layout=compact&theme=tokyonight"/>
 
 </p>
 
