@@ -1,22 +1,57 @@
-# 👨‍💻 Felipe Miron
+<h1 align="center">👨‍💻 Felipe Miron</h1>
 
-🚀 Desenvolvedor em evolução  
-💻 Analista de Sistemas  
-📚 Estudando Engenharia de Software  
+<p align="center">
+Desenvolvedor em evolução • Analista de Sistemas • Engenharia de Software
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Software+Developer;System+Analyst;Web+Development;Always+learning+new+technologies" />
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+💻 Desenvolvedor focado em criação de sistemas e aplicações web  
+🧠 Estudando Engenharia de Software  
+⚙️ Interesse em arquitetura de sistemas e soluções tecnológicas  
+📚 Sempre aprendendo novas tecnologias  
 
 ---
 
 ## ⚙️ Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
+
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🧠 Atualmente aprendendo
+
+- Estrutura de Dados  
+- Engenharia de Software  
+- Desenvolvimento Web  
+- Banco de Dados  
+
+---
+
+## 📫 Contato
+
+📧 Email profissional  
+💼 GitHub  
+🚀 Sempre aberto a novos projetos
