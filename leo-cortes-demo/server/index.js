@@ -35,7 +35,10 @@ function isWithinNotice(date,config){const d=DateTime.fromISO(date,{zone:ZONE});
   return d.startOf('day')>=now.startOf('day')&&d.startOf('day')<=now.startOf('day').plus({days:config.advance_days});
 }
 async function getSlots(date,service,conn=db,{exceptId=null}={}){
-  const config=await settings();
+  // Read settings with the same connection/transaction: SQLite has a single-connection pool.
+  // Using the global db here while holding a transaction caused 60s pool timeouts.
+  const settingsRow=await conn('settings').where({id:1}).first();
+  const config={...settingsRow,hours:JSON.parse(settingsRow.hours)};
   if(!isoDate(date)||!isWithinNotice(date,config)||!service?.active)return [];
   const day=DateTime.fromISO(date,{zone:ZONE});const entry=config.hours[day.weekday%7];
   if(!entry?.open||!timeRe.test(entry.start)||!timeRe.test(entry.end))return [];
