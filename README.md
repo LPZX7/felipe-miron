@@ -54,8 +54,8 @@ Tenho interesse em criar projetos cada vez mais profissionais, fortalecer minha 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LPZX7&show_icons=true&theme=transparent&title_color=22D3EE&text_color=E5E7EB&icon_color=22D3EE&border_color=30363D" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPZX7&layout=compact&theme=transparent&title_color=22D3EE&text_color=E5E7EB&border_color=30363D" alt="Principais linguagens" />
+  <img height="165" src="github-stats.svg" alt="Estatísticas do GitHub" />
+  <img height="165" src="top-langs.svg" alt="Principais linguagens" />
 </p>
 
 ---
